@@ -22,3 +22,4 @@ This project is an AI-based real-time road monitoring system built using Raspber
 - Smart transportation
 - Driver safety systems
 - Road monitoring
+https://drive.google.com/file/d/1UHqJr_0goZ0ZkvK9X_vs5o4gHs9D8cXh/view?usp=drivesdk
