@@ -3,14 +3,14 @@ Real-time AI-based road anomaly and obstacle detection system using Raspberry Pi
 #  Real-Time Road Anomaly Detection using Raspberry Pi
 
 ##  Overview
-This project is an AI-based real-time road monitoring system built using Raspberry Pi and computer vision. It detects potholes, pedestrians, animals, shops, and other road obstacles from dashcam footage with approximately 90% accuracy.
+This project is an AI-based real-time road monitoring system built using Raspberry Pi and computer vision. It detects potholes, pedestrians, animals, shops, and other road obstacles from dashcam footage with approximately 80% accuracy.
 
 ##  Features
 - Detects road damages and potholes
 - Identifies people and animals
 - Detects roadside obstacles
 - Works in real time
-- Achieves ~90% accuracy
+- Achieves ~80% accuracy
 
 ##  Technologies Used
 - Raspberry Pi
